@@ -5,7 +5,8 @@
 @details Este módulo contém uma função para executar o gradiente descendente
           para regressão linear multivariada, atualizando os parâmetros θ
           iterativamente para minimizar a função de custo.
-@author Your Name <your.email@example.com>
+@author Joao Pedro de Alcântara Lima
+e-mail: joao.alcantara@discente.ufma.br
 """
 
 import numpy as np
